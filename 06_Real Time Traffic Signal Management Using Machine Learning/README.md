@@ -8,7 +8,7 @@ Gayatri Godepure**
 
 ## Brief Description:
 
-<p align=""justify">
+<p align="justify">
 People in today’s era usually have tendency of using their own private vehicles for commutation rather than using public or pooled means of transport and this results in large
 number of private vehicles on road. This endless increasing number of vehicles on road gives
 rise to many problems amongst them traffic congestion tops in every aspect. In such scenario
