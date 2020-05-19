@@ -1,5 +1,5 @@
 ## Topic:
-Real Time Traffic Management Using Machine Learning
+* Real Time Traffic Management Using Machine Learning *
 
 ## Group Members:
 Jyoti Tiwari
