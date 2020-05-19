@@ -14,16 +14,18 @@ number of private vehicles on road. This endless increasing number of vehicles o
 rise to many problems amongst them traffic congestion tops in every aspect. In such scenario
 one cannot restrict individual to limit the usage of their private vehicles but what we can
 do is at least manage traffic flow in a way that it doesnot alleviate congestion issues.
-                 
+                  </p>
 
+<p align="justify">
 There are many projects emerging in order to convert the current transport system of
 cities to ‘Smart system’ and there are many initiatives under this, one of this is Intelligent
 Transport System. Many initiatives were taken to design a system that can perform realtime monitoring of traffic signals i.e. the traffic signal switching time will not be predefined
 o n e, instead the switching time will depend on the count of vehicles on each side of the
 road. This process of getting the count of vehicle on the road can be achieved using various
 detection techniques.
+</p>
 
-
+<p align="justify">
 Our aim is to design and develop a miniature to depict the current road situation along
 with monitoring and handling the traffic issues. Hence to proceed with this project we are
 using a pretrained model YOLO to perform the task of object detection. The pretrained
@@ -37,4 +39,4 @@ initially check if the count of vehicle in all frame is approximately same then 
 will remain at its predefined regular interval for all sides of signal, the real-time switching for
 the signal will be performed if the count of vehicles in all frames varies as threshold difference
 which be provided.
-  </p>
+ </p?
