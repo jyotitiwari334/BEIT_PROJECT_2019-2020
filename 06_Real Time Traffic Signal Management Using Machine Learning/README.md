@@ -14,7 +14,7 @@ number of private vehicles on road. This endless increasing number of vehicles o
 rise to many problems amongst them traffic congestion tops in every aspect. In such scenario
 one cannot restrict individual to limit the usage of their private vehicles but what we can
 do is at least manage traffic flow in a way that it doesnot alleviate congestion issues.
-                   </p>
+                 
 
 There are many projects emerging in order to convert the current transport system of
 cities to ‘Smart system’ and there are many initiatives under this, one of this is Intelligent
@@ -37,3 +37,4 @@ initially check if the count of vehicle in all frame is approximately same then 
 will remain at its predefined regular interval for all sides of signal, the real-time switching for
 the signal will be performed if the count of vehicles in all frames varies as threshold difference
 which be provided.
+  </p>
