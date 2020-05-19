@@ -2,8 +2,8 @@
 **Real Time Traffic Management Using Machine Learning**
 
 ## Group Members:
-Jyoti Tiwari
+**Jyoti Tiwari
 Ankita Deshmukh
-Gayatri Godepure
+Gayatri Godepure**
 
 ## Brief Description:
